@@ -22,7 +22,7 @@
       <li>All major computer manufacturers say: <strong>Smartphones are computers</strong>
       <li>2013 Global computer sales by type:
       	<ul>
-				<li>Smartphones: 66%
+				<li>Smartphones: <strong>66%</strong>
 				<li>PCs: 21%
 				<li>Tablets: 13%	
       	</ul>
@@ -55,7 +55,7 @@
       <credits>© Raimo Van Der Klein, CEO Layar</credits>
     </figure>
 </section>
-<!--
+
 <section>
    <h2>Conference: People</h2>
 	<ul>
@@ -67,7 +67,7 @@
 		<li>OSUIGWE, Nikem Ekene; Prof. Kenneth Dike State Central e-Library, Awka Nigeria</li>
 	</ul>
 </section>
-
+<!--
 <section>
     <h2>Conference: Joshua Clark</h2>
 </section>
